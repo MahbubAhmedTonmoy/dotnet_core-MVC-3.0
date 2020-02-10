@@ -1,0 +1,16 @@
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.deps.json
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.dll
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.pdb
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.dll
+C:\Users\mahbub\Desktop\MVC 3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.pdb
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.deps.json
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.dll
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.pdb
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.dll
+C:\Users\mahbub\Desktop\dotnet_core-MVC-3.0\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.pdb
