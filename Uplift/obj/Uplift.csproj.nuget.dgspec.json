@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\Uplift\\Uplift.csproj": {}
+    "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\uplift\\Uplift.csproj": {}
   },
   "projects": {
     "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\Uplift\\Uplift.csproj": {
+    "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\uplift\\Uplift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\Uplift\\Uplift.csproj",
+        "projectUniqueName": "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\uplift\\Uplift.csproj",
         "projectName": "Uplift",
-        "projectPath": "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\Uplift\\Uplift.csproj",
+        "projectPath": "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\uplift\\Uplift.csproj",
         "packagesPath": "C:\\Users\\mahbub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\Uplift\\obj\\",
+        "outputPath": "C:\\Users\\mahbub\\Desktop\\dotnet_core-MVC-3.0\\uplift\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -282,6 +282,10 @@
               "version": "[3.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
             }
